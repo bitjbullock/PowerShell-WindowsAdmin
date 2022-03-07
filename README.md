@@ -13,3 +13,7 @@ Some of the scripts have comments in them to explain what is being done, some do
 ## Disclaimer
 
 All scripts are provided as is without warranty of any kind, use them at your own risk.
+
+
+### NOTE
+These are from https://github.com/unkn0wnvariable not my own. See his github for more scripts.
